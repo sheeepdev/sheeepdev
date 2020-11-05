@@ -8,4 +8,3 @@ tools i use for gfx and coding (and programing languages):
 git, photoshop, figma, vs code (ofc lol), python, javascript, gimp.. and many more i cant think of rn
 :)
 
-https://visitor-badge.glitch.me/badge?page_id=sheeepdev.visitor-badge
