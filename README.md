@@ -18,8 +18,6 @@
 <br/>  
 
 
-
-
 ## <div align="center"> Languages and Tools  </div>
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -38,8 +36,6 @@
 </div>
 <br />
 
-----
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
@@ -48,7 +44,7 @@
 <a href="https://twitter.com/imsheeeep" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/e" target="_blank">
+<a href="https://www.youtube.com/channel/UC5pcCX8QmgXRjFcl63gOKjg?view_as=subscriber" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
