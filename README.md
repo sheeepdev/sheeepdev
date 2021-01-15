@@ -40,6 +40,6 @@
 </a>  
 </div>  
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord)
+![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord)
 
 <br />
