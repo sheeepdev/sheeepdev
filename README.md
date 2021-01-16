@@ -18,26 +18,11 @@
 <br/>  
 
 
-## connect with me  
-<div align="center">
-<a href="https://github.com/sheeepdev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/imsheeeep" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UC5pcCX8QmgXRjFcl63gOKjg?view_as=subscriber" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
 
 
 
-
-
-<div align="center">
 ## my github stats
-
+<div align="center">
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true)
 
