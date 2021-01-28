@@ -24,6 +24,6 @@
 ## my github stats
 <div align="center">
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true)
 
 <br />
