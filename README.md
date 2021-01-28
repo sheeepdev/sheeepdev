@@ -9,7 +9,7 @@
 - 🎨 i like customization.  
   
 
-- 🌱 i’m currently learning CSS, HTML and others
+- 🌱 i’m currently learning CSS, HTML and others but i have pretty much learned them (most of it..)
   
 
 - ⚡ fun fact: my favorite number is 2  
