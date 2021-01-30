@@ -1,3 +1,4 @@
+
 ```sh
 $ cat aboutme.md
 ```
@@ -12,7 +13,7 @@ $ cat aboutme.md
 - 🎨 i like customization.  
   
 
-- 🌱 i’m currently learning CSS, HTML and others but i have pretty much learned them (most of it..)
+- 🌱 i’m a web developer
   
 
 - ⚡ fun fact: my favorite number is 2  
@@ -20,9 +21,21 @@ $ cat aboutme.md
 
 <br/>  
 
+```sh
+cat languages.md
+```
 
+<details closed>
+<summary>Open to see languages i wanna learn.</summary>
+<ul>
+  <li><a href="http://ruby-lang.org/en"><img src="https://camo.githubusercontent.com/03bdef4595003706b22736ecde664a7c9ed39a4c/68747470733a2f2f626761737061726f74746f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30332f727562792d6c6f676f2e706e67" alt="Ruby" width="40px" /> Ruby</a></li>
+  <li><a href="https://www.rust-lang.org"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40px" /> rust</a></li>
+</ul>
+</details>
 
-
+```sh
+$ cat stats.md
+```
 
 <details hidden>
 <summary>open to see my github stats!</summary>
@@ -32,5 +45,14 @@ $ cat aboutme.md
 </ul>
 </details>
 <div align="center">
+  
+```sh
+$ cat contact.md
+```
+<details hidden>
+  <summary>open to see ways to contact me.</summary>
+  <ul
+
+- 📫 How to reach me: [email](sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
 
 <br />
