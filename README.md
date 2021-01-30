@@ -42,6 +42,7 @@ $ cat stats.md
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheep" alt="sheep's top langs" /><a/>
 
 &nbsp;
 &nbsp;
