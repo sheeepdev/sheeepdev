@@ -21,9 +21,12 @@
 
 
 
-## my github stats
+<details closed>
+<summary>open to see my github stats!</summary>
+<ul>
+ ![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true)
+</ul>
+</details>
 <div align="center">
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true)
 
 <br />
