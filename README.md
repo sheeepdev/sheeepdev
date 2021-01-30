@@ -1,3 +1,6 @@
+```sh
+$ cat aboutme.md
+```
 <div align="center">
 <img src="https://raw.githubusercontent.com/sheeepdev/sheeepdev/main/images/banner.png" align="center" style="width: 100%" />
 </div>  
