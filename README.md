@@ -21,7 +21,7 @@
 
 
 
-<details closed>
+<details shown>
 <summary>open to see my github stats!</summary>
 <ul>
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="Fuwn's GitHub Statistics" /><a/>
