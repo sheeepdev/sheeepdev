@@ -10,13 +10,13 @@ $ cat aboutme.md
 ### <div align="center">🚀 hi, im sheep! i do coding in my freetime</div>  
   
 
-- 🎨 i like customization.  
+<div align="center"> - 🎨 i like customization.  
   
 
-- 🌱 i’m a web developer
+<div align="center"> - 🌱 i’m a web developer
   
 
-- ⚡ fun fact: my favorite number is 2  
+<div align="center"> - ⚡ fun fact: my favorite number is 2  
   
 
 <br/>  
