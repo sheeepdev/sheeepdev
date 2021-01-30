@@ -24,7 +24,8 @@
 <details closed>
 <summary>open to see my github stats!</summary>
 <ul>
-[my github stats](https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="Fuwn's GitHub Statistics" /><a/>
+</details>
 </ul>
 </details>
 <div align="center">
