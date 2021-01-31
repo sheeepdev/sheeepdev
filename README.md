@@ -33,6 +33,7 @@ $ cat languages-to-learn.md
 &nbsp;
 &nbsp;
 
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
 &nbsp;
 &nbsp;
 $ cat stats.md
