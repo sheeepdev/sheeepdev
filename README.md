@@ -33,7 +33,7 @@ $ cat languages-to-learn.md
 &nbsp;
 &nbsp;
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
+
 &nbsp;
 &nbsp;
 $ cat stats.md
@@ -54,4 +54,4 @@ $ cat contact.md
 &nbsp;
 &nbsp;
 - 📫 How to reach me: [email](sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
-
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
