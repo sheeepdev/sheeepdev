@@ -53,7 +53,7 @@ $ cat stats.md
 $ cat contact.md
 &nbsp;
 &nbsp;
-- 📫 How to reach me: [email](sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
+- 📫 How to reach me: [email](mailto:sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
 
 &nbsp;
 &nbsp;
