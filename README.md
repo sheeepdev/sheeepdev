@@ -7,14 +7,14 @@ $ cat aboutme.md
 </div>  
   
 
-### <div align="center">🚀 hi, im sheep! i do coding in my freetime</div>  
+### <div align="center">🚀 hi, im sheep!</div>  
   
 
-<div align="center"> - 🎨 i like customization.  
+<div align="center"> - 🎨 i like ricing and themeing.  
   
-
-<div align="center"> - 🌱 i’m a web developer
+<div align="center"> - 🌱 i’m learning web development
   
+<div align="center"> - 🔭 goals in the future: create my own programs, contribute to open source projects and much more..
 
 <div align="center"> - ⚡ fun fact: my favorite number is 2  
   
