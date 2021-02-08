@@ -47,7 +47,6 @@ $ cat stats.md
 
 &nbsp;
 &nbsp;
-<img src="https://api.ghprofile.me/view?username=sheeepdev&style=for-the-badge&color=2e3340&label=profile views"/><a/>
   
   
 &nbsp;
