@@ -52,7 +52,7 @@ $ cat now-playing.md
 
 &nbsp;
 &nbsp;
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile) 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&redirect=true) 
 &nbsp;
 &nbsp;
 
