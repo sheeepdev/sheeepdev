@@ -42,7 +42,7 @@ $ cat stats.md
 &nbsp;
 
 my discord servers:
-<img src=https://img.shields.io/discord/647176945381015572?color=%235e81ac&label=syndicate&logo=discord&logoColor=%235e81ac&style=for-the-badge/>
+[![syndicate](https://img.shields.io/discord/647176945381015572?color=%235e81ac&label=syndicate&logo=discord&logoColor=%235e81ac&style=for-the-badge)](https://dsc.gg/syndicate)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
