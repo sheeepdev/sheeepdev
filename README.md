@@ -45,6 +45,8 @@ my discord servers:
 &nbsp;
 &nbsp;
 [![syndicate](https://img.shields.io/discord/647176945381015572?color=%235e81ac&label=syndicate&logo=discord&logoColor=%235e81ac&style=for-the-badge)](https://dsc.gg/syndicate)
+&nbsp;
+&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
