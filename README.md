@@ -44,7 +44,10 @@ $ cat stats.md
 my discord servers:
 &nbsp;
 &nbsp;
+&nbsp;
+
 [![syndicate](https://img.shields.io/discord/647176945381015572?color=%235e81ac&label=syndicate&logo=discord&logoColor=%235e81ac&style=for-the-badge)](https://dsc.gg/syndicate)
+
 &nbsp;
 &nbsp;
 
