@@ -50,7 +50,6 @@ my discord servers:
 [![winthemers](https://img.shields.io/discord/763847972013342740?color=%235e81ac&label=winthemers&logo=discord&logoColor=%235e81ac&style=for-the-badge)](https://discord.gg/YhddG9JBaQ)
 
 &nbsp;
-&nbsp;
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
