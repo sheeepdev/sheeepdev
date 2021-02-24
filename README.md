@@ -51,7 +51,7 @@ my discord servers:
 
 &nbsp;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sheeepdev&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheeepdev&no-frame=true&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
