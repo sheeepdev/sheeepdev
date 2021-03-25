@@ -54,7 +54,7 @@ my discord servers:
 <details>
   <summary>My Pofile Stats</summary>
   <br/>
-[trophy](https://github-profile-trophy.vercel.app/?username=sheeepdev&no-frame=true&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=sheeepdev&no-frame=true&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy"/>
   <br/>
 </details>
 
