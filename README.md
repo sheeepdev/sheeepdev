@@ -52,9 +52,8 @@ my discord servers:
 &nbsp;
 
 <details>
-  <summary>My Pofile Stats</summary>
+  <summary>My Profile Stats</summary>
   <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=sheeepdev&no-frame=true&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy"/>
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeepdev&theme=nord&show_icons=true&hide_border=true" alt="sheep's top langs" /><a/>  
