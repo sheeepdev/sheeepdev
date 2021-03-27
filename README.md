@@ -1,6 +1,6 @@
 
 
-$ cat aboutme.md
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sheeepdev/sheeepdev/main/images/banner.png" align="center" style="width: 100%" />
@@ -26,7 +26,7 @@ $ cat aboutme.md
 
 &nbsp;       
 &nbsp;                                       
-$ cat languages-to-learn.md
+
 &nbsp;
 &nbsp;
 <ul>
@@ -39,7 +39,7 @@ $ cat languages-to-learn.md
 
 &nbsp;
 &nbsp;
-$ cat stats.md
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -66,7 +66,7 @@ my discord servers:
 &nbsp;
 &nbsp;
 
-$ cat now-playing.md
+
 
 &nbsp;
 &nbsp;
@@ -76,7 +76,7 @@ $ cat now-playing.md
 
 &nbsp;
 &nbsp;
-$ cat contact.md
+
 &nbsp;
 &nbsp;
 - 📫 How to reach me: [email](mailto:sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
