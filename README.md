@@ -23,14 +23,6 @@
 
 &nbsp;
 
-my discord servers:
-&nbsp;
-&nbsp;
-
-[![syndicate](https://img.shields.io/discord/647176945381015572?color=%235e81ac&label=syndicate&logo=discord&logoColor=%235e81ac&style=for-the-badge)](https://dsc.gg/syndicate)
-
-[![winthemers](https://img.shields.io/discord/763847972013342740?color=%235e81ac&label=winthemers&logo=discord&logoColor=%235e81ac&style=for-the-badge)](https://discord.gg/YhddG9JBaQ)
-
 &nbsp;
 
 <details>
