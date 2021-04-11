@@ -23,7 +23,9 @@
   </div>
   
 &nbsp;
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&redirect=true) 
+</div>  
 &nbsp;
 &nbsp;
 
