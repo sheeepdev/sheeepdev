@@ -46,7 +46,7 @@
 
 &nbsp;
 &nbsp;
-- 📫 how to reach me: [email](mailto:sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
+- 📫 how to reach me: [email](mailto:me@sheepdev.xyz) / discord: sheep#2428 / [telegram](https://t.me/sheeepyy)
 
 &nbsp;
 &nbsp;
