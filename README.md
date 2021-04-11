@@ -19,8 +19,6 @@
 
 &nbsp;
 
-&nbsp;
-
 <details>
   <summary>my profile stats</summary>
   <br/>
@@ -35,12 +33,6 @@
 
   <br/>
 </details>
-
-&nbsp;
-&nbsp;
-
-&nbsp;
-&nbsp;
 
 &nbsp;
 &nbsp;
