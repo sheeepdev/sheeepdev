@@ -21,13 +21,6 @@
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheeepdev&theme=nord&show_icons=true&hide_border=true" alt="sheep's top langs" /><a/>  
   </div>
-  
-&nbsp;
-<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&redirect=true) 
-</div>  
-&nbsp;
-&nbsp;
 
   <br/>
 </details>
