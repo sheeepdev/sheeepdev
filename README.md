@@ -13,7 +13,7 @@
 ### <div align="center">🚀 hi, im sheep!</div>  
   
 
-<div align="center"> - 🎨 i like ricing and themeing.  
+<div align="center"> - 🎨 i like ricing.  
   
 <div align="center"> - 🌱 i’m learning web development
   
@@ -58,7 +58,7 @@ my discord servers:
 
 &nbsp;
 &nbsp;
-- 📫 How to reach me: [email](mailto:sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
+- 📫 how to reach me: [email](mailto:sheepdev@pm.me) / discord: sheep#2428 / [Telegram](https://t.me/sheeepyy)
 
 &nbsp;
 &nbsp;
