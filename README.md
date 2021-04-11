@@ -8,14 +8,7 @@
 
 ### <div align="center">🚀 hi, im sheep!</div>  
   
-
-<div align="center"> - 🎨 i like ricing.  
-  
-<div align="center"> - 🌱 i’m learning web development
-  
-<div align="center"> - 🔭 goals in the future: create my own programs, contribute to open source projects and much more..
-
-<div align="center"> - ⚡ fun fact: my favorite number is 2  
+💻 dev 🎨 ricer ⚡ linux enthusiast
 
 &nbsp;
 
