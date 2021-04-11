@@ -7,7 +7,7 @@
 </div>  
 
 <details>
-  <summary>about me</summary>
+  <summary>&#9776; about me</summary>
   <br/>
 
 ### <div align="center">🚀 hi, im sheep!</div>  
@@ -43,7 +43,7 @@ my discord servers:
 &nbsp;
 
 <details>
-  <summary>My Profile Stats</summary>
+  <summary>my profile stats</summary>
   <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=sheeepdev&show_icons=true&theme=nord&include_all_commits=true&hide_border=true" alt="sheeps's GitHub Statistics" /><a/>
 <div align="center">
