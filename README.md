@@ -6,10 +6,6 @@
 <img src="https://raw.githubusercontent.com/sheeepdev/sheeepdev/main/images/banner.png" align="center" style="width: 100%" />
 </div>  
 
-<details>
-  <summary>&#9776; about me</summary>
-  <br/>
-
 ### <div align="center">🚀 hi, im sheep!</div>  
   
 
