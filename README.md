@@ -8,7 +8,7 @@
 
 ### <div align="center">🚀 hi, im sheep!</div>  
   
-💻 dev 🎨 ricer ⚡ linux enthusiast
+<div align="center">💻 dev 🎨 ricer ⚡ linux enthusiast</div>
 
 &nbsp;
 
