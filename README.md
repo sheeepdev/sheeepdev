@@ -10,6 +10,8 @@
   
 <div align="center">💻 dev | 🎨 ricer | ⚡ linux enthusiast</div>
 
+btw i like css
+
 &nbsp;
 
 &nbsp;
