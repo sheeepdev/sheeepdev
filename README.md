@@ -10,11 +10,6 @@
   
 <div align="center">💻 dev | 🎨 ricer | ⚡ linux enthusiast</div>
 
-btw i like css
-
-&nbsp;
-
-&nbsp;
 &nbsp;
 - 📫 how to reach me: [email](mailto:me@sheepdev.xyz) / [discord](https://discord.com/users/429303151598895106) / [telegram](https://t.me/sheeepyy)
 
