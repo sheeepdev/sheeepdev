@@ -10,12 +10,19 @@
   
 <div align="center">💻 dev | 🎨 ricer | ⚡ linux enthusiast</div>
 
-hey, im sheep. 
+<div align="left">
+hey, im sheep.
+&nbsp;
 im a developer from zagreb, croatia.
+&nbsp;  
 i play the guitar and piano
+&nbsp;  
 i use arch btw
+&nbsp;  
 i like ricing
+&nbsp;  
 and thats about it :)
+</div>
 
 &nbsp;
 - 📫 how to reach me: [email](mailto:me@sheepdev.xyz) / [discord](https://discord.com/users/429303151598895106) / [telegram](https://t.me/sheeepyy)
