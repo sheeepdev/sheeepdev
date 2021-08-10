@@ -12,15 +12,10 @@
 
 <div align="left">
 hey, im sheep.
-&nbsp;
 im a developer from zagreb, croatia.
-&nbsp;  
 i play the guitar and piano
-&nbsp;  
-i use arch btw
-&nbsp;  
-i like ricing
-&nbsp;  
+i use arch btw  
+i like ricing 
 and thats about it :)
 </div>
 
