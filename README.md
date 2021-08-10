@@ -9,11 +9,7 @@
 ### <div align="center">🚀 hi, im sheep!</div>  
 
 <div align="left">
-im a developer from zagreb, croatia.
-i play the guitar and piano
-i use arch btw  
-i like ricing 
-and thats about it :)
+im a developer from zagreb, croatia. i play the guitar and piano, i use arch btw, i like ricing and thats about it :)
 </div>
 
 &nbsp;
