@@ -10,11 +10,15 @@
   
 <div align="center">💻 dev | 🎨 ricer | ⚡ linux enthusiast</div>
 
-&nbsp;
-- 📫 how to reach me: [email](mailto:me@sheepdev.xyz) / [discord](https://discord.com/users/429303151598895106) / [telegram](https://t.me/sheeepyy)
+hey, im sheep. 
+im a developer from zagreb, croatia.
+i play the guitar and piano
+i use arch btw
+i like ricing
+and thats about it :)
 
 &nbsp;
-&nbsp;
+- 📫 how to reach me: [email](mailto:me@sheepdev.xyz) / [discord](https://discord.com/users/429303151598895106) / [telegram](https://t.me/sheeepyy)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sheeepdev/sheeepdev/main/images/github-user-contribution.svg" align="center" style="width: 100%" />
