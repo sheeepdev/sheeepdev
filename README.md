@@ -62,6 +62,3 @@
 ### 🎵 im currently listening to:  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&cover_image=true&theme=default)
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
