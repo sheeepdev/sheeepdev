@@ -16,6 +16,9 @@
 &nbsp;
 &nbsp;
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sheeepdev/sheeepdev/main/images/github-user-contribution.svg" align="center" style="width: 100%" />
+
 <p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
   <br/>
 </details>
