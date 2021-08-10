@@ -7,11 +7,8 @@
 </div>  
 
 ### <div align="center">🚀 hi, im sheep!</div>  
-  
-<div align="center">💻 dev | 🎨 ricer | ⚡ linux enthusiast</div>
 
 <div align="left">
-hey, im sheep.
 im a developer from zagreb, croatia.
 i play the guitar and piano
 i use arch btw  
