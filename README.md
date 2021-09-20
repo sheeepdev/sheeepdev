@@ -1,8 +1,8 @@
-**Hello there 👋**
+# Hello there 👋
 
 **I'm [sheep](https://sheepdev.xyz), a web developer from Zagreb, Croatia 🇭🇷**
 
-# You may know me from some of my projects:
+You may know me from some of my projects:
 
 [nordtube](https://github.com/sheeepdev/nordtube)
 [nordhub](https://github.com/sheeepdev/nordhub)
