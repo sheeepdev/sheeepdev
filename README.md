@@ -4,8 +4,8 @@
 
 You may know me from some of my projects:
 
-[nordtube](https://github.com/sheeepdev/nordtube)
-[nordhub](https://github.com/sheeepdev/nordhub)
+- [nordtube](https://github.com/sheeepdev/nordtube)
+- [nordhub](https://github.com/sheeepdev/nordhub)
 
 In my free time I like to fiddle with linux and ricing :)
 
