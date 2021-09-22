@@ -7,7 +7,7 @@ You may know me from some of my projects:
 - [nordtube](https://github.com/sheeepdev/nordtube)
 - [nordhub](https://github.com/sheeepdev/nordhub)
 
-or my discord server, winthemers:
+or my discord server:
 - [winthemers](https://discord.gg/kE857nj)
 
 In my free time I like to fiddle with linux and ricing :)
