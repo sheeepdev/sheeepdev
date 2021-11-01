@@ -11,7 +11,6 @@ or my discord server:
 - [🎨 winthemers](https://discord.gg/kE857nj)
 
 In my free time I like to fiddle with linux and ricing :) \
- \
 I also play the guitar 🎸 and piano 🎹
 
 ### 📪 Want to get in touch with me?
