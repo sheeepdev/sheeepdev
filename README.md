@@ -12,6 +12,8 @@ or my discord server:
 
 In my free time I like to fiddle with linux and ricing :)
 &nbsp;
+&nbsp;
+&nbsp;
 I play the guitar 🎸 and piano 🎹
 
 ### 📪 Want to get in touch with me?
