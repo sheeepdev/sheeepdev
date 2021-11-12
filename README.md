@@ -7,6 +7,8 @@ You may know me from some of my projects:
 - [❄️ nordtube](https://github.com/sheeepdev/nordtube)
 - [🧊 nordhub](https://github.com/sheeepdev/nordhub)
 
+(⚠️ Both color schemes are archived and will not be maintained, see the notices in the repos!)
+
 or my discord server:
 - [🎨 winthemers](https://discord.gg/kE857nj)
 
