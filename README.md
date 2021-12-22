@@ -10,6 +10,9 @@ You may know me from some of my projects:
 or my discord server:
 - [🎨 winthemers](https://discord.gg/kE857nj)
 
+If you want, you can join my new linux orianted discord server:
+- [⛵ navis](https://discord.gg/GUXwjdMg4y)
+
 In my free time I like to fiddle with linux and ricing :) \
 I also play the guitar 🎸 and piano 🎹
 
