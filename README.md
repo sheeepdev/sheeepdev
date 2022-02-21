@@ -25,4 +25,4 @@ I also play the guitar 🎸 and piano 🎹
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=beziuiy1zq1p73q3dofba1x3v&cover_image=true&theme=default)
 
 ### 💻 What I'm doing on discord:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/429303151598895106?idleMessage="Just chilling 🌴")](https://discord.com/users/429303151598895106)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/429303151598895106?idleMessage=Just chilling 🌴)](https://discord.com/users/429303151598895106)
