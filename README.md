@@ -4,6 +4,7 @@
 
 You may know me from some of my projects:
 
+- [🌜 Lunar](https://lunar-theme.github.io)
 - [❄️ nordtube](https://github.com/sheeepdev/nordtube)
 - [🧊 nordhub](https://github.com/sheeepdev/nordhub)
 
