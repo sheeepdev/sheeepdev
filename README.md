@@ -2,17 +2,17 @@
 
 **I'm [sheep](https://sheepdev.xyz), a web developer from Zagreb, Croatia 🇭🇷**
 
-You may know me from some of my projects:
+You may know me from some of my previous projects:
 
-- [🌜 Lunar](https://lunar-theme.github.io)
 - [❄️ nordtube](https://github.com/sheeepdev/nordtube)
 - [🧊 nordhub](https://github.com/sheeepdev/nordhub)
 
 or my discord server:
 - [🎨 winthemers](https://discord.gg/kE857nj)
 
-If you want, you can join my new linux orianted discord server:
-- [⛵ navis](https://discord.gg/GUXwjdMg4y)
+Some of the projects im currently working on:
+
+- [🌜 Lunar](https://lunar-theme.github.io)
 
 In my free time I like to fiddle with linux and ricing :) \
 I also play the guitar 🎸 and piano 🎹
