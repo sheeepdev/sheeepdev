@@ -1,7 +1,7 @@
 # Hello there 👋
 
 **I'm [sheep](https://sheepdev.xyz), a web developer from Zagreb, Croatia 🇭🇷**   \
-**I'm passionate about <a href="https://en.wikipedia.org/wiki/Linux"><img src="assets/tux.png" width="18" /></a> and <a href="https://opensource.org"><img src="assets/oss.png" width="18" /></a>
+**I'm passionate about <a href="https://en.wikipedia.org/wiki/Linux"><img src="assets/tux.png" align="bottom" width="18" /></a> and <a href="https://opensource.org"><img src="assets/oss.png" align="bottom" width="18" /></a>**
 
 You may know me from some of my previous projects:
 
