@@ -1,6 +1,7 @@
 # Hello there 👋
 
-**I'm [sheep](https://sheepdev.xyz), a web developer from Zagreb, Croatia 🇭🇷**
+**I'm [sheep](https://sheepdev.xyz), a web developer from Zagreb, Croatia 🇭🇷**   \
+**I'm passionate about [![Linux](assets/tux.png)](https://en.wikipedia.org/wiki/Linux) and [![Open Source](assets/oss.png)](https://opensource.org/)**
 
 You may know me from some of my previous projects:
 
