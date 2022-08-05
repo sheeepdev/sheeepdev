@@ -16,7 +16,7 @@ Some of the projects im currently working on:
 - [🌜 Lunar](https://lunar-theme.github.io)
 
 In my free time I like to fiddle with linux and ricing :) \
-I also play the guitar 🎸 and piano 🎹
+I also play the guitar 🎸
 
 ### 📪 Want to get in touch with me?
 - [💬 Discord](https://discord.com/users/429303151598895106) (Preffered)
