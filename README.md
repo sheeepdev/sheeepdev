@@ -5,18 +5,17 @@
 
 You may know me from some of my previous projects:
 
-- [❄️ nordtube](https://github.com/sheeepdev/nordtube)
+- [❄️  nordtube](https://github.com/sheeepdev/nordtube)
 - [🧊 nordhub](https://github.com/sheeepdev/nordhub)
 
 or my discord server:
 - [🎨 winthemers](https://discord.gg/kE857nj)
 
-Some of the projects im currently working on:
+Some of the projects I'm currently working on:
 
-- [🌜 Lunar](https://lunar-theme.github.io)
+- [☀️  Solis](https://solis-theme.netlify.app)
 
 In my free time I like to fiddle with linux and ricing :) \
-I also played the guitar (gave up on it because I don't have time anymore)
 
 ### 📪 Want to get in touch with me?
 - [💬 Discord](https://discord.com/users/429303151598895106) (Preffered)
