@@ -2,6 +2,8 @@ hello there!
 
 im sheep, a software developer from zagreb, croatia
 
+---
+
 🔗
 
 [www](https://sheepdev.xyz)  •   [blog](https://sheepdev.xyz/posts/)  •   [projects](https://github.com/sheeepdev?tab=repositories&type=source)
