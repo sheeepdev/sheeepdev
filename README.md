@@ -1,6 +1,6 @@
 hello there!
 
-im sheep, a software developer from zagreb, croatia
+im sheep, a software engineer from zagreb, croatia
 
 ---
 
