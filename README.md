@@ -4,7 +4,7 @@ A software engineer from Zagreb, Croatia
 
 🔗
 
-[WWW](https://sheepdev.xyz)  •   [Blog](https://sheepdev.xyz/blog/)  •  [Projects](https://github.com/sheeepdev?tab=repositories&type=source)
+[Website](https://sheepdev.xyz)  •   [Blog](https://sheepdev.xyz/blog/)  •  [Projects](https://github.com/sheeepdev?tab=repositories&type=source)
 
 📪
 
