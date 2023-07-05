@@ -1,11 +1,11 @@
-a software engineer from zagreb, croatia
+A software engineer from Zagreb, Croatia
 
 ---
 
 🔗
 
-[www](https://sheepdev.xyz)  •   [blog](https://sheepdev.xyz/blog/)  •  [projects](https://github.com/sheeepdev?tab=repositories&type=source)
+[WWW](https://sheepdev.xyz)  •   [Blog](https://sheepdev.xyz/blog/)  •  [Projects](https://github.com/sheeepdev?tab=repositories&type=source)
 
 📪
 
-[discord](https://discord.com/users/429303151598895106)   •   [mastodon](https://fosstodon.org/@sheepdev)   •   [email](mailto:sheep@sheepdev.xyz)
+[Discord](https://discord.com/users/429303151598895106)   •   [Mastodon](https://fosstodon.org/@sheepdev)   •   [Email](mailto:sheep@sheepdev.xyz)
