@@ -1,1 +1,1 @@
-### As of February 13th 2024, I'm moving all my personal repositories to [Codeberg](https://codeberg.org/sheep). I will still use GitHub, but only for contributions.
+### As of February 13th 2024, I'm moving most of my personal repositories (the ones that do not require Actions) to [Codeberg](https://codeberg.org/sheep). I will still use GitHub, but only for contributions.
